@@ -74,26 +74,36 @@
 - Presented findings to engineering and management stakeholders
 
 ---
----
 
 ## 🌐 Interactive Research Presentation
 
-> 🎯 **Check out my MSc thesis research presented in an Apple-style animated experience!**
+> 🎯 **Experience my MSc thesis research in an Apple-style animated presentation!**
 
 <p align="center">
   <a href="https://Jaykumar-patelJP.github.io">
-    <img src="https://img.shields.io/badge/View%20Presentation-Hydraulic%20Actuation%20Efficiency-0C447C?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20View%20Live%20Presentation-Hydraulic%20Actuation%20Efficiency-0C447C?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-**What's inside:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Scroll--Snap%20Animations-%E2%9C%93-378ADD?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Particle%20Effects-%E2%9C%93-5DCAA5?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile%20Responsive-%E2%9C%93-FAC775?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Keyboard%20Navigation-%E2%9C%93-C0DD97?style=flat-square"/>
+</p>
+
+**What's inside the presentation:**
 - ⚡ The challenge with traditional hydraulic metrics
-- 💡 Cyclic Performance Index (CPI) — formula & concept
-- 🔬 MATLAB & Simulink methodology
-- 📊 Key results — 40% energy performance improvement
-- 🌱 Real-world impact on sustainable design
+- 💡 Cyclic Performance Index (CPI) — formula & full concept
+- 🔬 MATLAB & Simulink simulation methodology
+- 📊 Key results — **~40% energy performance improvement** with ESR integration
+- 🌱 Real-world impact on sustainable hydraulic design
 
 ---
+
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
@@ -102,6 +112,8 @@
 | ✅ Six Sigma / DMAIC | Applied @ New Flyer Industries | 2021 |
 
 ---
+
+
 
 <p align="center">
   <i>"Designing efficient systems, solving complex problems, and building things that work."</i><br><br>
