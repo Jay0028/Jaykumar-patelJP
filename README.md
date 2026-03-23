@@ -75,24 +75,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaykumar-patelJP&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykumar-patelJP&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykumar-patelJP&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🥇 Solid Edge Advanced Certified | Siemens | — |
+| 🥇 Solid Edge Advanced Certified | Siemens | 2019 |
 | ✅ Six Sigma / DMAIC | Applied @ New Flyer Industries | 2021 |
 
 ---
