@@ -74,7 +74,26 @@
 - Presented findings to engineering and management stakeholders
 
 ---
+---
 
+## 🌐 Interactive Research Presentation
+
+> 🎯 **Check out my MSc thesis research presented in an Apple-style animated experience!**
+
+<p align="center">
+  <a href="https://Jaykumar-patelJP.github.io">
+    <img src="https://img.shields.io/badge/View%20Presentation-Hydraulic%20Actuation%20Efficiency-0C447C?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+**What's inside:**
+- ⚡ The challenge with traditional hydraulic metrics
+- 💡 Cyclic Performance Index (CPI) — formula & concept
+- 🔬 MATLAB & Simulink methodology
+- 📊 Key results — 40% energy performance improvement
+- 🌱 Real-world impact on sustainable design
+
+---
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
